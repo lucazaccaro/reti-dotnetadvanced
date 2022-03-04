@@ -1,0 +1,5 @@
+﻿1) follow this tutorial: https://docs.microsoft.com/en-us/ef/core/get-started/overview/first-app (use sqlServer instead of Sqlite)
+2) create and apply a first migration
+3) check that reading, adding, editing works
+4) update the db context, create and apply a new migration
+5) re-test previous code, and check that everything works fine
