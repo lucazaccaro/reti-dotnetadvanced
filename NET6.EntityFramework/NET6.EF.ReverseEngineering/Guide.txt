@@ -1,0 +1,4 @@
+﻿1) install EF Core and related packages
+2) launch command 
+"dotnet ef dbcontext scaffold "Data Source=.;Initial Catalog=blog;Integrated Security=SSPI;MultipleActiveResultSets=True" Microsoft.EntityFrameworkCore.SqlServer"
+3) see generated classes
