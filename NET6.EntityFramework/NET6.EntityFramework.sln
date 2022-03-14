@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET6.EF.Startup", "NET6.EF.Startup\NET6.EF.Startup.csproj", "{83D732E3-354C-4AF0-8BAC-BF51303BEAAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET6.EF.ReverseEngineering", "NET6.EF.ReverseEngineering\NET6.EF.ReverseEngineering.csproj", "{CAB42FB6-EADD-48FD-B255-0C065EDF8BCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET6.EF.ReverseEngineering", "NET6.EF.ReverseEngineering\NET6.EF.ReverseEngineering.csproj", "{CAB42FB6-EADD-48FD-B255-0C065EDF8BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET6.EF.RepositoryAndUnitOfWork", "NET6.EF.RepositoryAndUnitOfWork\NET6.EF.RepositoryAndUnitOfWork.csproj", "{800C4C70-41DC-479A-A96E-36B990A3CB24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{CAB42FB6-EADD-48FD-B255-0C065EDF8BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAB42FB6-EADD-48FD-B255-0C065EDF8BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAB42FB6-EADD-48FD-B255-0C065EDF8BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800C4C70-41DC-479A-A96E-36B990A3CB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800C4C70-41DC-479A-A96E-36B990A3CB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800C4C70-41DC-479A-A96E-36B990A3CB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800C4C70-41DC-479A-A96E-36B990A3CB24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
